@@ -1,0 +1,7 @@
+gradio
+librosa
+numpy
+scipy
+openai
+python-dotenv
+ipykernel
